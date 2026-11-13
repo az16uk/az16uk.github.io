@@ -48,4 +48,6 @@ ul {
 pre {
     text-align: center;
     white-space: pre-wrap;
+    max-width: 90%;
+    margin: 10px auto;
 }
