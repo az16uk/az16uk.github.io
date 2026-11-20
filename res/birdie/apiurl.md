@@ -1,6 +1,6 @@
-# Birdie API/Endpoint URLS
+Birdie API/Endpoint URLS
 
-## Birdie API
+Birdie API
 
 Staging URL / 1.1 API (Not Recommended): stageee.blun.cc
 
@@ -8,13 +8,13 @@ Staging URL / 1.1 API (Not Recommended): stageee.blun.cc
 
 ---
 
-## Blueblips API
+Blueblips API
 
 1.1: https://api.blueblips.com
 
 ---
 
-## Birdie Endpoints:
+Birdie Endpoints:
 
 mobileeeee.blun.cc
 
