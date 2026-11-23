@@ -1,5 +1,3 @@
-Birdie API/Endpoint URLS
-
 Birdie API
 
 Staging URL / 1.1 API (Not Recommended): stageee.blun.cc

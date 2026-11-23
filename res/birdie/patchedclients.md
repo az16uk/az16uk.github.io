@@ -1,5 +1,3 @@
-Precontext
-
 Below is the list of all Twitter versions patched to Birdie. Me, Astro15 and iGavin will also be working on this document (I hope). This document will be removed in the future and published on https://birdiee.net
 
 The list will include Unofficial and Official clients, and support for Windows Phone, Windows, MacOS, iOS and Android.
@@ -39,3 +37,4 @@ Windows Phone (Official + Unofficial)
 - Twitter 3.0
 
 Windows (Official + Unofficial)
+(To Do)
